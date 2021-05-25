@@ -43,12 +43,15 @@ Here are some ideas to get you started **on who I'm**:
 <br />
 
 ### Languages and Tools:
-
-[<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][github]
+[<img align="left" alt="GNU/Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][github]
 <!-- <span class="fl-artix"></span> -->
 [<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" />][github]
 [<img align="left" alt="Clojure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
+
+[<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png" />][github]
+
 [<img align="left" alt="Reagent" width="90px" src="https://github.com/reagent-project/reagent/raw/master/logo/logo-text.png" />][github]
 <!-- [<img align="left" alt="Luminus" width="px" src="https://luminusweb.com/img/logo.png" />][github] -->
 <!-- [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github] -->
