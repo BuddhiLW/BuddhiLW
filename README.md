@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 
 <br />
 ### Languages and Tools:
+
 [<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][github]
-<span class="fl-artix"></span>
+<!-- <span class="fl-artix"></span> -->
 [<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" />][github]
 [<img align="left" alt="Clojure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
