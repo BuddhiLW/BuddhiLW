@@ -4,15 +4,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Clojure for my daily use,
-- 🌱 I’m currently learning: Closh, Babashka and SCIMUTils
+- 🚪🔑⚒ *I’m currently working on*: Clojure for my daily use,
+- 📖 *I’m currently learning*: Closh, Babashka and SCIMUTils
 <!-- - 👯 I’m looking to collaborate on: fly solo, because yolo. -->
-- 🥅 2021 Goal: FP dream-job.
+- 👷 *2021 Goal*: FP dream-job.
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about: what does a Physics Engineer do?
-- 📫 How to reach me: pedrogbranquinho@gmail.com
+- ❔ *Ask me about*: what does a Physics Engineer do?
+- 📫 *How to reach me*: pedrogbranquinho@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: the lisp family reaches for world domination... Shh! Don't tell anyone...
+- ⚡🌫 *Fun fact*: the lisp family reaches for world domination... Shh! Don't tell anyone...
 
 <!-- ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 -->
 
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <!-- [<img align="left" alt="buddhilw | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram] -->
 
 <br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][github]
@@ -46,8 +47,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" />][github]
 [<img align="left" alt="Clojure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="Reagent" width="26px" src="https://github.com/reagent-project/reagent/raw/master/logo/logo-text.png" />][github]
-[<img align="left" alt="Luminus" width="26px" src="https://luminusweb.com/img/logo.png" />][github]
+[<img align="left" alt="Reagent" width="60px" src="https://github.com/reagent-project/reagent/raw/master/logo/logo-text.png" />][github]
+[<img align="left" alt="Luminus" width="60px" src="https://luminusweb.com/img/logo.png" />][github]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
 
 <!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist] -->
