@@ -47,10 +47,11 @@ Here are some ideas to get you started **on who I'm**:
 <!-- <span class="fl-artix"></span> -->
 [<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" />][github]
 [<img align="left" alt="Clojure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" />][github]
+[<img align="left" alt="Elm" width="26px" src="https://avatars.githubusercontent.com/u/20698192?s=200&v=4" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
 
-[<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png" />][github]
+[<img align="left" alt="Julia" width="30px" src="https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png" />][github]
 
 [<img align="left" alt="Reagent" width="90px" src="https://github.com/reagent-project/reagent/raw/master/logo/logo-text.png" />][github]
 <!-- [<img align="left" alt="Luminus" width="px" src="https://luminusweb.com/img/logo.png" />][github] -->
@@ -131,7 +132,7 @@ Here are some ideas to get you started **on who I'm**:
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 <!-- [instagram]: https://instagram.com/codeSTACKr -->
 [linkedin]: https://www.linkedin.com/in/pedro-g-branquinho/
-[github]: https://www.github
+[github]: https://github.com/BuddhiLW
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
 <!-- [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B -->
 <!-- [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4 -->
@@ -142,3 +143,4 @@ Here are some ideas to get you started **on who I'm**:
 ```html
 <link href="//cdn.jsdelivr.net/gh/Lukas-W/font-logos@v0.16/assets/font-logos.css" rel="stylesheet">
 ```
+<!-- https://package.elm-lang.org/ -->
