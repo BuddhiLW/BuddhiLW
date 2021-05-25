@@ -1,8 +1,10 @@
-### Hi there 👋
+# Hi there, newcomer 🚆🚖
 
-**BuddhiLW/BuddhiLW** is a ✨ _special_ ✨ repository because its... well, a piece of work... He has a bad case of **lisp**. 
+Here goes the sugar-me-do~!
 
-Here are some ideas to get you started:
+#### **BuddhiLW/BuddhiLW** is a ✨ _special_ ✨ repository because its... well, a piece of work... He has a bad case of **Lisp**. 
+
+Here are some ideas to get you started **on who I'm**:
 
 - 🚪🔑⚒ **I’m currently working on**: Clojure for my daily use,
 - 📖 **I’m currently learning**: Closh, Babashka and SCIMUTils
@@ -49,7 +51,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="Reagent" width="90px" src="https://github.com/reagent-project/reagent/raw/master/logo/logo-text.png" />][github]
 <!-- [<img align="left" alt="Luminus" width="px" src="https://luminusweb.com/img/logo.png" />][github] -->
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
+<!-- [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github] -->
 
 <!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist] -->
 <!-- [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist] -->
@@ -132,6 +134,8 @@ Here are some ideas to get you started:
 <!-- [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4 -->
 <!-- [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
 <br />
+<br />
+
 ```html
 <link href="//cdn.jsdelivr.net/gh/Lukas-W/font-logos@v0.16/assets/font-logos.css" rel="stylesheet">
 ```
