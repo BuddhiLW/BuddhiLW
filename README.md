@@ -1,9 +1,5 @@
 # Hi there, newcomer 🚆🚖
 
-Here goes the sugar-me-do~!
-
-#### **BuddhiLW/BuddhiLW** is a ✨ _special_ ✨ repository because its... well, a piece of work... He has a bad case of **Lisp**. 
-
 Here are some ideas to get you started **on who I'm**:
 
 - 🚪🔑⚒ **I’m currently working on**: Clojure for my daily use,
@@ -16,6 +12,10 @@ Here are some ideas to get you started **on who I'm**:
 <!-- - 😄 Pronouns: ... -->
 - ⚡🌫 **Fun fact**: the lisp family reaches for world domination... Shh! Don't tell anyone...
 
+
+### My status
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuddhiLW)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 -->
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
