@@ -1,10 +1,3 @@
----
-output: 
-  html_document:
-     css: //cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css
-     self_contained: no
----
-
 <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css'>
 # This is not my cyber corner 🙏ૐༀ
 
