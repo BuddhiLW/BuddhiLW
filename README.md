@@ -1,19 +1,30 @@
+---
+output: 
+  html_document:
+     css: //cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css
+     self_contained: no
+---
+
+<link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css'>
 # This is not my cyber corner 🙏ૐༀ
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-<span style="color:#fff; font-family: 'Hack, monospace'; font-size: 20em;">
-🅭🄏🅯🄎
-</span>
+
+~~~ <p align="center"> 
+	[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+	<span style="color:#fff; font-family: 'Hack, monospace'; font-size: 20em;">
+	🅭🄏🅯🄎
+	</span> 
+	</p> ~~~
 
 (But this is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](buddhilw.com))
 
 <!-- Here are some ideas to get you started **on who I'm**: -->
-- 🚪🔑⚒ **I’m currently working on**: "How to not-die of work",
-- 📖 **I’m currently learning**: Clojure I/O and CSV libraries,
-- 👷 **2021 Goal**: FP dream-job (DONE).
-- 👷 **Working at**: FLOW Finance.
-- ❔ **Ask me about**: what is the fundamental nature of reality?
-- 📫 **How to reach me**: pedrogbranquinho@gmail.com
-- ⚡🌫 **Fun fact**: the lisp family reaches for world domination... Shh! Don't tell anyone...
+- [x] 🚪🔑⚒ **I’m currently working on**: "How to not-die of work",
+- [ ] 📖 **I’m currently learning**: Clojure I/O and CSV libraries,
+- [x] 👷 **2021 Goal**: FP dream-job (DONE).
+- [x] 👷 **Working at**: FLOW Finance.
+- [ ] ❔ **Ask me about**: what is the fundamental nature of reality?
+- [ ] 📫 **How to reach me**: pedrogbranquinho@gmail.com
+- [ ] ⚡🌫 **Fun fact**: the lisp family reaches for world domination... Shh! Don't tell anyone...
 
 
 ### My status
@@ -148,4 +159,3 @@
 <!-- <link href="//cdn.jsdelivr.net/gh/Lukas-W/font-logos@v0.16/assets/font-logos.css" rel="stylesheet"> -->
 <!-- ``` -->
 <!-- <\!-- https://package.elm-lang.org/ -\-> -->
-<link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css'>
