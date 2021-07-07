@@ -1,13 +1,16 @@
-# Hi there, newcomer 🚆🚖
+# This is not my cyber corner 🙏ૐༀ
+🅭🅯🄎
 
-Here are some ideas to get you started **on who I'm**:
+(But this is my cyber corner: [[buddhilw.com][buddhilw.com]])
 
-- 🚪🔑⚒ **I’m currently working on**: Clojure for my daily use,
-- 📖 **I’m currently learning**: Closh, Babashka and SCIMUTils
+<!-- Here are some ideas to get you started **on who I'm**: -->
+- 🚪🔑⚒ **I’m currently working on**: How to not die of working,
+- 📖 **I’m currently learning**: Clojure I/O and CSV libraries,
 <!-- - 👯 I’m looking to collaborate on: fly solo, because yolo. -->
-- 👷 **2021 Goal**: FP dream-job.
+- 👷 **2021 Goal**: FP dream-job (DONE).
+- 👷 **Working at**: FLOW Finance.
 <!-- - 🤔 I’m looking for help with ... -->
-- ❔ **Ask me about**: what does a Physics Engineer do?
+- ❔ **Ask me about**: what is the fundamental nature of reality?
 - 📫 **How to reach me**: pedrogbranquinho@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡🌫 **Fun fact**: the lisp family reaches for world domination... Shh! Don't tell anyone...
@@ -145,3 +148,4 @@ Here are some ideas to get you started **on who I'm**:
 <!-- <link href="//cdn.jsdelivr.net/gh/Lukas-W/font-logos@v0.16/assets/font-logos.css" rel="stylesheet"> -->
 <!-- ``` -->
 <!-- <\!-- https://package.elm-lang.org/ -\-> -->
+[[http://creativecommons.org/licenses/by-sa/4.0/][https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg]]
