@@ -1,6 +1,6 @@
 # This is not my cyber corner 🙏ૐༀ
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-<span style="color:#fff; font-family: 'Hack, monospace'; font-size: 10em;">
+<span style="color:#fff; font-family: 'Hack, monospace'; font-size: 20em;">
 🅭🄏🅯🄎
 </span>
 
