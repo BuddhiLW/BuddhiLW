@@ -1,12 +1,12 @@
 <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css'>
 # This is not my cyber corner 🙏ૐༀ
 
-~~~ <p align="center"> 
-	[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+<p align="center"> 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 	<span style="color:#fff; font-family: 'Hack, monospace'; font-size: 20em;">
 	🅭🄏🅯🄎
 	</span> 
-	</p> ~~~
+</p>
 
 (But this is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](buddhilw.com))
 
