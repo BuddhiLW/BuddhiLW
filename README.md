@@ -1,21 +1,21 @@
 <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css'>
 
-# This is not my cyber corner 🙏ૐༀ
+# ૐ The humble hegumen Pafnuty here sets his hand to it ༀ
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 <span style="color:#fff; font-family: 'Hack, monospace';">
 🅭🄏🅯🄎
 </span> 
 
-(But this is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](buddhilw.com))
+This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](buddhilw.com)
 
 <!-- Here are some ideas to get you started **on who I'm**: -->
-- [x] 🚪🔑⚒ **I’m currently working on**: "How to not-die of work",
-- [ ] 📖 **I’m currently learning**: Clojure I/O and CSV libraries,
-- [x] 👷 **2021 Goal**: FP dream-job (DONE).
-- [x] 👷 **Working at**: FLOW Finance.
-- [ ] ❔ **Ask me about**: what is the fundamental nature of reality?
-- [ ] 📫 **How to reach me**: pedrogbranquinho@gmail.com
-- [ ] ⚡🌫 **Fun fact**: the lisp family reaches for world domination... Shh! Don't tell anyone...
+<!-- - [x] 🚪🔑⚒ **I’m currently working on**: "How to not-die of work", -->
+<!-- - [ ] 📖 **I’m currently learning**: Clojure I/O and CSV libraries, -->
+<!-- - [x] 👷 **2021 Goal**: FP dream-job (DONE). -->
+<!-- - [x] 👷 **Working at**: FLOW Finance. -->
+<!-- - [ ] ❔ **Ask me about**: what is the fundamental nature of reality? -->
+- [x] 📫 **How to reach me**: pedrogbranquinho@gmail.com
+<!-- - [ ] ⚡🌫 **Fun fact**: the lisp family reaches for world domination... Shh! Don't tell anyone... -->
 
 
 ### My status
