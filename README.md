@@ -6,7 +6,7 @@
 🅭🄏🅯🄎
 </span> 
 
-This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [https://www.buddhilw.com/](buddhilw.com)
+This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](https://www.buddhilw.com/)
 
 <!-- Here are some ideas to get you started **on who I'm**: -->
 <!-- - [x] 🚪🔑⚒ **I’m currently working on**: "How to not-die of work", -->
