@@ -7,7 +7,7 @@ You can support me making me donations,
 </span> 
 <br />
 <noscript><a href="https://liberapay.com/BuddhiLittleWhite/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
+<br />
 This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](https://www.buddhilw.com/)
 
 <!-- Here are some ideas to get you started **on who I'm**: -->
