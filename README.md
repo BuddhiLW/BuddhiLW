@@ -3,19 +3,21 @@
 # ૐ The humble hegumen Pafnuty here sets his hand to it ༀ
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 <span style="color:#fff; font-family: 'Hack, monospace';">
-🅭🄏🅯🄎
+You can support me making me donations,
+<script src="https://liberapay.com/BuddhiLittleWhite/widgets/receiving.js"></script>🅭🄏🅯🄎
 </span> 
 
 This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](https://www.buddhilw.com/)
 
 <!-- Here are some ideas to get you started **on who I'm**: -->
 <!-- - [x] 🚪🔑⚒ **I’m currently working on**: "How to not-die of work", -->
-<!-- - [ ] 📖 **I’m currently learning**: Clojure I/O and CSV libraries, -->
+- [x] 📖 **I’m currently learning**: [C and Algorithms](https://github.com/BuddhiLW/AlgorithmsC)
 <!-- - [x] 👷 **2021 Goal**: FP dream-job (DONE). -->
-<!-- - [x] 👷 **Working at**: FLOW Finance. -->
+- [x] 👷 **Open for work**: I preferbly would appreaciate working on FOSS initiatives
 <!-- - [ ] ❔ **Ask me about**: what is the fundamental nature of reality? -->
 - [x] 📫 **How to reach me**: pedrogbranquinho@gmail.com
 <!-- - [ ] ⚡🌫 **Fun fact**: the lisp family reaches for world domination... Shh! Don't tell anyone... -->
+- [x] 📺📽 **Videos (PT/EN)**: [Invidious (YouTube but better)](https://yewtu.be/channel/UCcDTD0VMlN2tGA7sDVZllRw?quality=dash&dark_mode=true&autoplay=1)
 
 
 ### My status
