@@ -2,13 +2,10 @@
 
 # ૐ The humble hegumen Pafnuty here sets his hand to it ༀ
 ### You can support me making me donations,
-<br />
 <noscript><a href="https://liberapay.com/BuddhiLittleWhite/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
-<span style="color:#fff; font-family: 'Hack, monospace';">
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-</span> 
 <br />
+
 This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](https://www.buddhilw.com/)
 
 <!-- Here are some ideas to get you started **on who I'm**: -->
