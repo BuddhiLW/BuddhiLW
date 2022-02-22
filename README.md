@@ -1,7 +1,7 @@
 <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css'>
 
 # ૐ The humble hegumen Pafnuty here sets his hand to it ༀ
-### You can support me making me donations,
+### You can support me making donations,
 <noscript><a href="https://liberapay.com/BuddhiLittleWhite/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 <br />
 
