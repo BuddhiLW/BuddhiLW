@@ -9,9 +9,9 @@ This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber co
 
 <!-- Here are some ideas to get you started **on who I'm**: -->
 <!-- - [x] 🚪🔑⚒ **I’m currently working on**: "How to not-die of work", -->
-- [x] 📖 **I’m currently learning**: [C and Algorithms](https://github.com/BuddhiLW/AlgorithmsC)
+- [x] 📖 **I’m currently learning**: [Go on Coursera (University of California, Irvine - UCI)](https://github.com/BuddhiLW/GoCoursera)
 <!-- - [x] 👷 **2021 Goal**: FP dream-job (DONE). -->
-- [x] 👷 **Open for work**: I preferbly would appreaciate working on FOSS initiatives
+- [x] 👷 **Open for work**: Looking forward on working on FOSS. 
 <!-- - [ ] ❔ **Ask me about**: what is the fundamental nature of reality? -->
 - [x] 📫 **How to reach me**: pedrogbranquinho@gmail.com
 <!-- - [ ] ⚡🌫 **Fun fact**: the lisp family reaches for world domination... Shh! Don't tell anyone... -->
