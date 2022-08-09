@@ -1,30 +1,33 @@
 <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css'>
 
 # ૐ The humble hegumen Pafnuty here sets his hand to it ༀ
-### You can support me making donations,
+
+### You can support me making me donations,
+
 <noscript><a href="https://liberapay.com/BuddhiLittleWhite/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 <br />
 
 This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](https://www.buddhilw.com/)
 
-<!-- Here are some ideas to get you started **on who I'm**: -->
-<!-- - [x] 🚪🔑⚒ **I’m currently working on**: "How to not-die of work", -->
-- [x] 📖 **I’m currently learning**: [Go on Coursera (University of California, Irvine - UCI)](https://github.com/BuddhiLW/GoCoursera)
-<!-- - [x] 👷 **2021 Goal**: FP dream-job (DONE). -->
-- [x] 👷 **Open for work**: Looking forward on working on FOSS. 
-<!-- - [ ] ❔ **Ask me about**: what is the fundamental nature of reality? -->
+- [x] 📖 **I’m currently learning**: [Backend, by Meta] (https://github.com/BuddhiLW/Meta-backend-course)
+- [x] 👷 **Open for work**: Fullstack + Basic DevOps knowledge + Advanced Statistics
 - [x] 📫 **How to reach me**: pedrogbranquinho@gmail.com
-<!-- - [ ] ⚡🌫 **Fun fact**: the lisp family reaches for world domination... Shh! Don't tell anyone... -->
 - [x] 📺📽 **Videos (PT/EN)**: [Invidious (YouTube but better)](https://yewtu.be/channel/UCcDTD0VMlN2tGA7sDVZllRw?quality=dash&dark_mode=true&autoplay=1)
 
+### Done:
+
+- [Go on Coursera (University of California, Irvine - UCI)](https://github.com/BuddhiLW/GoCoursera)
 
 ### My status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuddhiLW)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
+
 [<img align="left" alt="GNU/Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][github]
+
 <!-- <span class="fl-artix"></span> -->
+
 [<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" />][github]
 [<img align="left" alt="Clojure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" />][github]
 [<img align="left" alt="Elm" width="26px" src="https://avatars.githubusercontent.com/u/20698192?s=200&v=4" />][github]
