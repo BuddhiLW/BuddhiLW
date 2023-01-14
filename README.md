@@ -10,7 +10,7 @@
 This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](https://www.buddhilw.com/)
 
 - [x] 📖 **I’m currently learning**: [Backend, by Meta] (https://github.com/BuddhiLW/Meta-backend-course)
-- [x] 👷 **Open for work**: Fullstack + Basic DevOps knowledge + Advanced Statistics
+- [ ] 👷 **Open for work**: Fullstack + Basic DevOps knowledge + Advanced Statistics
 - [x] 📫 **How to reach me**: pedrogbranquinho@gmail.com
 - [x] 📺📽 **Videos (PT/EN)**: [Invidious (YouTube but better)](https://yewtu.be/channel/UCcDTD0VMlN2tGA7sDVZllRw?quality=dash&dark_mode=true&autoplay=1)
 
@@ -18,9 +18,10 @@ This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber co
 
 - [Go on Coursera (University of California, Irvine - UCI)](https://github.com/BuddhiLW/GoCoursera)
 
+<!-- 
 ### My status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuddhiLW)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuddhiLW)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Languages and Tools:
 
