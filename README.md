@@ -54,7 +54,7 @@ This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber co
 [github]: https://github.com/BuddhiLW
 
 ### Stats
-[![BuddhiLW's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuddhiLW&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![BuddhiLW's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuddhiLW&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Use this layout under:
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
