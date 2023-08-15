@@ -53,5 +53,8 @@ This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber co
 [linkedin]: https://www.linkedin.com/in/pedro-g-branquinho/
 [github]: https://github.com/BuddhiLW
 
+### Stats
+[![BuddhiLW's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuddhiLW)](https://github.com/anuraghazra/github-readme-stats)
+
 Use this layout under:
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
