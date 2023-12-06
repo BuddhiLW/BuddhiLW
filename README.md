@@ -2,7 +2,7 @@
 
 # ૐ The humble hegumen Pafnuty here sets his hand to it ༀ
 
-### You can support me making me donations,
+### You can support me by making donations,
 
 <noscript><a href="https://liberapay.com/BuddhiLittleWhite/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 <br />
