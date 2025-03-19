@@ -19,6 +19,7 @@ This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber co
 - [Go on Coursera (University of California, Irvine - UCI)](https://github.com/BuddhiLW/GoCoursera)
 
 ### Past Experinces:
+- Orasis Holding (Independent Contract);
 - Lupo S.A. (Independent Contract);
 - Flow Finance, Santa Catarina (CLT);
 - Café do Bem O.N.G. (Volunteer);
