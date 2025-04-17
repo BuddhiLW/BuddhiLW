@@ -2,14 +2,15 @@
 
 # ૐ The humble hegumen Pafnuty here sets his hand to it ༀ
 
-### You can support me by making donations,
-
-<noscript><a href="https://liberapay.com/BuddhiLittleWhite/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<div>
+<b> You can support me by making donations,<b> <noscript><a href="https://liberapay.com/BuddhiLittleWhite/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 <br />
+<br />
+</div>
 
-This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](https://www.buddhilw.com/)
 
-This is my portifolio: [buddhilw.dev](https://www.buddhilw.dev/)
+- This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](https://www.buddhilw.com/)
+- This is my portifolio: [buddhilw.dev](https://www.buddhilw.dev/)
 
 ### Done:
 
