@@ -9,11 +9,6 @@
 
 This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](https://www.buddhilw.com/)
 
-<!-- - [x] 📖 **I’m currently learning**: [Backend, by Meta] (https://github.com/BuddhiLW/Meta-backend-course) -->
-- [x] 👷 **Work**: Independent Contracts
-- [x] 📫 **How to reach me**: pedrogbranquinho@gmail.com
-- [x] 📺📽 **Videos (PT/EN)**: [Invidious (YouTube but better)](https://yewtu.be/channel/UCcDTD0VMlN2tGA7sDVZllRw?quality=dash&dark_mode=true&autoplay=1)
-
 ### Done:
 
 - [Go on Coursera (University of California, Irvine - UCI)](https://github.com/BuddhiLW/GoCoursera)
@@ -21,7 +16,7 @@ This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber co
 ### Past Experinces:
 - Orasis Holding (Independent Contract);
 - Lupo S.A. (Independent Contract);
-- Flow Finance, Santa Catarina (CLT);
+- Flow Finance (CLT);
 - Café do Bem O.N.G. (Volunteer);
 - Bidding Prices Data Analysis (Independent Contract);
 - Algorithmic Trading (Independent Contract);
