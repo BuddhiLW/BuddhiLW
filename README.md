@@ -2,9 +2,9 @@
 
 # ૐ The humble hegumen Pafnuty here sets his hand to it ༀ
 
-Engenheiro-filósofo cognoscente, busca profundidade, integrabilidade e sincronicidade em tudo o que faz.
-Cognizant engineer-philosopher, seeking depth, integrability, and synchronicity in everything he does.
-认知型的工程师-哲学家，追求深度、可整合性与万事万物的同步性。
+Engenheiro-filósofo cognoscente, busca profundidade, integrabilidade e sincronicidade em tudo o que faz. <br />
+Cognizant engineer-philosopher, seeking depth, integrability, and synchronicity in everything he does. <br />
+认知型的工程师-哲学家，追求深度、可整合性与万事万物的同步性。<br />
 
 <div>
 <b> You can support me by making donations,</b> <noscript><a href="https://liberapay.com/BuddhiLittleWhite/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
