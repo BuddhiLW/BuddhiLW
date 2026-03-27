@@ -10,6 +10,8 @@ Cognizant engineer-philosopher, seeking depth, integrability, and synchronicity 
 <b> You can support me by making donations,</b> <noscript><a href="https://liberapay.com/BuddhiLittleWhite/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 <br />
 <br />
+
+Monero wallet: 82abdyrh6XwAxwJWLFYnkWV9oxPi8fphyNhGgQoEhvmJc3L5ZE5449NEcjvadhwTCKF2oMe7NtwLa71kthKVcrcp95ACZtt
 </div>
 
 
