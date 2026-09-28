@@ -16,7 +16,7 @@ Monero wallet: 82abdyrh6XwAxwJWLFYnkWV9oxPi8fphyNhGgQoEhvmJc3L5ZE5449NEcjvadhwTC
 
 
 - This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](https://www.buddhilw.com/)
-- This is my portifolio: [portifolio.buddhilw.com](https://portifolio.buddhilw.com/)
+- This is my portifolio: [portfolio.buddhilw.com](https://portfolio.buddhilw.com/)
 
 ### Past Experiences:
 - Orasis Holding (Independent Contract);
