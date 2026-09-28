@@ -16,9 +16,9 @@ Monero wallet: 82abdyrh6XwAxwJWLFYnkWV9oxPi8fphyNhGgQoEhvmJc3L5ZE5449NEcjvadhwTC
 
 
 - This is my <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](https://www.buddhilw.com/)
-- This is my portifolio: [buddhilw.dev](https://www.buddhilw.dev/)
+- This is my portifolio: [portifolio.buddhilw.com](https://www.portifolio.buddhilw.com/)
 
-### Past Experinces:
+### Past Experiences:
 - Orasis Holding (Independent Contract);
 - Lupo S.A. (Independent Contract);
 - Flow Finance (CLT);
