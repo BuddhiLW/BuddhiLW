@@ -17,7 +17,7 @@ and libraries I depend on.
 
 | Project | What it is |
 |---|---|
-| [**hive-mcp**](https://github.com/hive-agi/hive-mcp) | MCP server for multi-agent coordination: persistent memory, a knowledge graph, swarms of agents and structural code navigation. The core of the [hive-agi](https://github.com/hive-agi) ecosystem. |
+| [**hive-mcp**](https://github.com/hive-agi/hive-mcp) | MCP server for multi-agent coordination: persistent memory, a knowledge graph, swarms of agents and structural code navigation. The core of the [hive-agi](https://github.com/hive-agi) ecosystem. Write-up: [8-10x Faster Development with LLM Memory That Persists](https://www.buddhilw.com/posts-output/2026-01-20-hive-mcp/). |
 | [**clojure-elisp**](https://github.com/BuddhiLW/clojure-elisp) | A Clojure dialect that compiles to Emacs Lisp, the way ClojureScript targets JavaScript. On [Clojars](https://clojars.org/io.github.buddhilw/clojure-elisp) and [MELPA](https://github.com/melpa/melpa/pull/10246). |
 | [**desargues**](https://github.com/mentat-collective/desargues) | Emmy (computer algebra) meets Manim: animated mathematics and physics scenes, such as Emmy-derived double pendulums, from Clojure. Core contributor at [mentat-collective](https://github.com/mentat-collective). [Landing page](https://mentat.org/desargues). |
 | [**keg**](https://github.com/BuddhiLW/keg) | Knowledge Exchange Graph CLI in Go: Zettelkasten nodes with a dex and tags, sealed (encrypted) nodes and [Open Knowledge Format](https://github.com/GoogleCloudPlatform/open-knowledge-format) export. |
