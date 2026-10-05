@@ -19,6 +19,7 @@ and libraries I depend on.
 |---|---|
 | [**hive-mcp**](https://github.com/hive-agi/hive-mcp) | MCP server for multi-agent coordination: persistent memory, a knowledge graph, swarms of agents and structural code navigation. The core of the [hive-agi](https://github.com/hive-agi) ecosystem. |
 | [**clojure-elisp**](https://github.com/BuddhiLW/clojure-elisp) | A Clojure dialect that compiles to Emacs Lisp, the way ClojureScript targets JavaScript. On [Clojars](https://clojars.org/io.github.buddhilw/clojure-elisp) and [MELPA](https://github.com/melpa/melpa/pull/10246). |
+| [**desargues**](https://github.com/mentat-collective/desargues) | Emmy (computer algebra) meets Manim: animated mathematics and physics scenes, such as Emmy-derived double pendulums, from Clojure. Core contributor at [mentat-collective](https://github.com/mentat-collective). [Landing page](https://mentat.org/desargues). |
 | [**keg**](https://github.com/BuddhiLW/keg) | Knowledge Exchange Graph CLI in Go: Zettelkasten nodes with a dex and tags, sealed (encrypted) nodes and [Open Knowledge Format](https://github.com/GoogleCloudPlatform/open-knowledge-format) export. |
 | [**plato**](https://github.com/BuddhiLW/plato) | A deck is a Clojure value: a presentation engine over Reveal.js with Markdown, Org and EDN front ends and a native CLI. [Live demo](https://buddhilw.github.io/plato/). |
 | [**tod**](https://github.com/BuddhiLW/tod) | Emacs themes and wallpapers that follow the sun and the seasons, written in ClojureElisp. |
@@ -43,6 +44,7 @@ More tools: [design-forge](https://github.com/BuddhiLW/design-forge) (design tok
 Merged upstream work, newest first:
 
 - [**clojurust**](https://github.com/csm/clojurust/pulls?q=is%3Apr+author%3ABuddhiLW+is%3Amerged) (Clojure on Rust): 44 merged PRs, covering an nREPL server, `deftype` and the datatype macros, ad-hoc hierarchies, `future`, `clojure.pprint`, lazy sequences, the reader, and native extension loading for AOT builds.
+- [**ClojureWasm**](https://github.com/clojurewasm/ClojureWasm/commits?author=BuddhiLW) (a JVM-free Clojure runtime in Zig): nREPL classpath resolution, REPL evaluation and analyzer fixes. I also maintain its [Homebrew tap](https://github.com/BuddhiLW/homebrew-tap).
 - [**dirge**](https://github.com/dirge-code/dirge/pulls?q=is%3Apr+author%3ABuddhiLW+is%3Amerged) (agent harness in Rust): Claude-Code-compatible hooks, background tool calls, token usage reporting over ACP.
 - [**ansatz**](https://github.com/replikativ/ansatz/pulls?q=is%3Apr+author%3ABuddhiLW+is%3Amerged) (dependently typed Clojure with a Lean 4 kernel): malli schema to type translation, codegen guards, Fressian export.
 - [**zwasm**](https://github.com/zwasm/zwasm/pulls?q=is%3Apr+author%3ABuddhiLW+is%3Amerged) (WebAssembly runtime in Zig): component interface resolution, WASI preview 2 metadata hashes.
