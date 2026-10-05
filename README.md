@@ -13,6 +13,12 @@ and libraries I depend on.
 - My <span style="color:#bf8ae2; font-family: 'Hack, monospace';">cyber corner</span>: [buddhilw.com](https://www.buddhilw.com/)
 - My portfolio: [portfolio.buddhilw.com](https://portfolio.buddhilw.com/)
 
+## Products
+
+- [**hive-mcp.com**](https://hive-mcp.com): hive for Claude Code. Memory that survives the session, a knowledge graph grown from how you work, and code navigation that resolves qualified names instead of grepping strings. Two commands to install.
+- [**store.hive-mcp.com**](https://store.hive-mcp.com): addons for Clojure agents, such as structural code cartography and schema-driven testing. One subscription, paid in Monero or by card. Built on [monero-store-template](https://github.com/BuddhiLW/monero-store-template).
+- [**vtranslate.cc**](https://vtranslate.cc): AI video translation and private captions. Ship every video in every language. Source: [vtranslate-engine](https://github.com/BuddhiLW/vtranslate-engine), [vtranslate-cli](https://github.com/BuddhiLW/vtranslate-cli).
+
 ## Featured projects
 
 | Project | What it is |
