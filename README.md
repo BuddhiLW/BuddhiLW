@@ -19,6 +19,15 @@ and libraries I depend on.
 - [**store.hive-mcp.com**](https://store.hive-mcp.com): addons for Clojure agents, such as structural code cartography and schema-driven testing. One subscription, paid in Monero or by card. Built on [monero-store-template](https://github.com/BuddhiLW/monero-store-template).
 - [**vtranslate.cc**](https://vtranslate.cc): AI video translation and private captions. Ship every video in every language. Source: [vtranslate-engine](https://github.com/BuddhiLW/vtranslate-engine), [vtranslate-cli](https://github.com/BuddhiLW/vtranslate-cli).
 
+## Maintainer
+
+I am an official maintainer of [**ClojureWasm**](https://github.com/clojurewasm/ClojureWasm), a JVM-free Clojure runtime in Zig that calls WebAssembly from Clojure, so libraries written in any language become Clojure libraries. I cut its releases (signed build provenance and `SHA256SUMS` on every tarball), run the [Homebrew tap](https://github.com/clojurewasm/homebrew-tap) (`brew install clojurewasm/tap/cljw`) and host its live demos: the [Playground](https://cljw.buddhilw.com/playground/) and the [Bookshelf](https://cljw.buddhilw.com/bookshelf/) app.
+
+<p>
+<a href="https://github.com/clojurewasm/ClojureWasm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=clojurewasm&repo=ClojureWasm&theme=dracula" /><img alt="clojurewasm/ClojureWasm" src="https://github-stats-extended.vercel.app/api/pin/?username=clojurewasm&repo=ClojureWasm&theme=default_repocard" /></picture></a>
+<a href="https://github.com/hive-agi/hive-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=hive-agi&repo=hive-mcp&theme=dracula" /><img alt="hive-agi/hive-mcp" src="https://github-stats-extended.vercel.app/api/pin/?username=hive-agi&repo=hive-mcp&theme=default_repocard" /></picture></a>
+</p>
+
 ## Featured projects
 
 | Project | What it is |
@@ -50,7 +59,7 @@ More tools: [design-forge](https://github.com/BuddhiLW/design-forge) (design tok
 Merged upstream work, newest first:
 
 - [**clojurust**](https://github.com/csm/clojurust/pulls?q=is%3Apr+author%3ABuddhiLW+is%3Amerged) (Clojure on Rust): 44 merged PRs, covering an nREPL server, `deftype` and the datatype macros, ad-hoc hierarchies, `future`, `clojure.pprint`, lazy sequences, the reader, and native extension loading for AOT builds.
-- [**ClojureWasm**](https://github.com/clojurewasm/ClojureWasm/commits?author=BuddhiLW) (a JVM-free Clojure runtime in Zig): nREPL classpath resolution, REPL evaluation and analyzer fixes. I also maintain its [Homebrew tap](https://github.com/BuddhiLW/homebrew-tap).
+- [**ClojureWasm**](https://github.com/clojurewasm/ClojureWasm/commits?author=BuddhiLW) (a JVM-free Clojure runtime in Zig): contributor turned maintainer. Started with nREPL classpath resolution, REPL evaluation and analyzer fixes.
 - [**dirge**](https://github.com/dirge-code/dirge/pulls?q=is%3Apr+author%3ABuddhiLW+is%3Amerged) (agent harness in Rust): Claude-Code-compatible hooks, background tool calls, token usage reporting over ACP.
 - [**ansatz**](https://github.com/replikativ/ansatz/pulls?q=is%3Apr+author%3ABuddhiLW+is%3Amerged) (dependently typed Clojure with a Lean 4 kernel): malli schema to type translation, codegen guards, Fressian export.
 - [**zwasm**](https://github.com/zwasm/zwasm/pulls?q=is%3Apr+author%3ABuddhiLW+is%3Amerged) (WebAssembly runtime in Zig): component interface resolution, WASI preview 2 metadata hashes.
@@ -104,7 +113,10 @@ Monero wallet: 82abdyrh6XwAxwJWLFYnkWV9oxPi8fphyNhGgQoEhvmJc3L5ZE5449NEcjvadhwTC
 </div>
 
 ### Stats
-[![BuddhiLW's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuddhiLW&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+<a href="https://github.com/stats-organization/github-stats-extended"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=BuddhiLW&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=dracula" /><img alt="BuddhiLW's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=BuddhiLW&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=default" /></picture></a>
+<a href="https://github.com/stats-organization/github-stats-extended"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=BuddhiLW&layout=compact&langs_count=8&theme=dracula" /><img alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BuddhiLW&layout=compact&langs_count=8&theme=default" /></picture></a>
+</p>
 
 Use this layout under:
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
