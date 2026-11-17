@@ -1,7 +1,7 @@
 <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css'>
 
 <p align="center">
-  <a href="https://portfolio.buddhilw.com/?ref=github"><img src="assets/banner.png" width="100%" alt="Pedro G. Branquinho (BuddhiLW): software, platform, physics engineer. Clojure and Lisp tooling, agent infrastructure, knowledge systems. portfolio.buddhilw.com" /></a>
+  <a href="https://portfolio.buddhilw.com/?ref=blog"><img src="assets/banner.png" width="100%" alt="Pedro G. Branquinho (BuddhiLW): software, platform, physics engineer. Clojure and Lisp tooling, agent infrastructure, knowledge systems. portfolio.buddhilw.com" /></a>
 </p>
 
 # ૐ The humble hegumen Pafnuty here sets his hand to it ༀ
